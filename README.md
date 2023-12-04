@@ -2,7 +2,7 @@
 
 ** a teb menu by js **
 
-![view](https://github.com/danial-barati/portfolio-main/assets/104683176/b25ac8c3-4f0c-4129-a11f-4642c781c771)
+![view](https://github.com/danial-barati/tab-menu/assets/104683176/9d469bbe-952d-4104-8e9c-90c5adb2a931)
 
 - 🔗 [demo](https://danial-barati.github.io/portfolio-main/)
 
